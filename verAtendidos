@@ -1,5 +1,3 @@
-http://aleman.site88.net/incidentes/Atendidos.php
-
 <?php
 
 $sql = "SELECT * FROM incidentes2 WHERE estado='1'";
